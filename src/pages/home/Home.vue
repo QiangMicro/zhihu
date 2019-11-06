@@ -1,12 +1,10 @@
 <template>
-  <HomeHeader></HomeHeader>
+  <div>首页</div>
 </template>
 <script>
-import HomeHeader from 'pages/home/component/HomeHeader'
 export default {
   name: "Home",
   components:{
-    HomeHeader
   }
 }
 </script>
